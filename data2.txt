@@ -1,0 +1,4 @@
+name,maths_mark,phy_mrk,chem_mark
+Alan,56,63,78
+Jhon,78,,89
+David,45,46,36

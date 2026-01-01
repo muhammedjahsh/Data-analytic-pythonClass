@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,JoiningDate,City
+101,John,HR,29,45000,2021-05-14,New York
+102,Sara,Finance,35,65000,2019-08-19,Chicago
+103,Alex,IT,28,55000,2020-11-01,San Francisco
+104,Emma,Finance,42,72000,2018-04-23,Chicago
+105,David,IT,31,58000,2021-02-15,Los Angeles
+106,Nina,HR,39,49000,2017-09-10,New York
+107,Tom,Finance,30,,2020-07-01,Chicago
+108,Linda,IT,45,75000,2016-03-30,San Francisco
+109,James,HR,27,42000,2022-01-10,Los Angeles
+110,Mary,Finance,38,68000,2019-12-15,Chicago
